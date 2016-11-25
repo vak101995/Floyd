@@ -6,9 +6,15 @@ public class Eclipse {
         // TODO Auto-generated method stub
         System.out.println("Album Name: Wish That you were here");
                 
-        System.out.println("See you on the dark side of the moon");
+        System.out.println("Shine on you crazy diamond pt1");
         
         System.out.println("Have a Cigar");
-    }
+        
+        System.out.println("Welcome to the machine");
+        
+        System.out.println("Wish you were here");
+        
+        System.out.println("Shine on you crazy diamond pt2");
+     }
 
 }
