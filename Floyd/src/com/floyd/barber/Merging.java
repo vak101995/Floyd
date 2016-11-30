@@ -6,6 +6,7 @@ public class Merging {
 		// TODO Auto-generated method stub
 System.out.println("iron man");
 System.out.println("is a superhero");
+System.out.println("I am Tony Stark");
 	}
 
 }
