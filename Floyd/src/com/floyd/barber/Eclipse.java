@@ -15,6 +15,8 @@ public class Eclipse {
         System.out.println("Wish you were here");
         
         System.out.println("Shine on you crazy diamond pt2");
+        
+        System.out.println( "thankyou");
      }
 
 }
